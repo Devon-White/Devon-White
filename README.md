@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Devon White</h1>
 <h3 align="center">A passionate security minded developer from the United States located in VA.</h3>
 
-- 🔭 I’m currently working on [GoChitChat](https://github.com/Devon-White/GoChitChat)
+- 🔭 I’m currently working on [SWML-Python SDK]([https://github.com/Devon-White/GoChitChat](https://github.com/Devon-White/SWML-python))
 
 - 🌱 I’m currently learning **Go, Gin, Docker**
 
