@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on SWML-SDK-Generator<br>👯 I’m looking to collaborate on <br>🌱 I’m currently learning Go, React, Docker<br>💬 Ask me about Python, Go, and Cyber Security<br>⚡ Learning Game development on the side!
+🔭 I’m currently working on SWML-SDK-Generator<br>🌱 I’m currently learning Go, React, Docker<br>💬 Ask me about Python, Go, and Cyber Security<br>⚡ Learning Game development on the side!
 
 
 ## 🌐 Socials:
